@@ -17,7 +17,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #b53b2579;
+  color:#2B3531 ;
 }
 
 a {
@@ -1006,6 +1006,7 @@ section {
 --------------------------------------------------------------*/
 .faq {
   padding: 60px 0;
+  background-color: #e8ffe4;
 }
 .faq .faq-list {
   padding: 0;
