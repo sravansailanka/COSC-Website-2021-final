@@ -257,10 +257,6 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover;
   padding: 0;
 }
-#intro-img{
-  margin-top: 100px;
-
-}
 #hero .carousel-container {
   display: flex;
   justify-content: center;
@@ -329,6 +325,9 @@ h1, h2, h3, h4, h5, h6 {
   }
   #hero h2 {
     font-size: 28px;
+  }
+  #hero img{
+    height: 75%;
   }
 }
 
