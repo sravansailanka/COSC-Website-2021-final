@@ -1171,9 +1171,11 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact{
+  background: #2B3531;
+}
 .contact .info {
   width: 100%;
-  background: #fff;
 }
 .contact .info i {
   font-size: 20px;
@@ -1193,17 +1195,15 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #2a2c39;
+  color: #fff;
 }
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #555974;
+  color: #91A88C;
 }
-.contact .info .email, .contact .info .phone {
-  margin-top: 40px;
-}
+
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: #F74700;
   color: #fff;
